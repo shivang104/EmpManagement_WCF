@@ -1,0 +1,15 @@
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\UI_wcftask.csprojAssemblyReference.cache
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\MainWindow.g.cs
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\App.g.cs
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\UI_wcftask_MarkupCompile.cache
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\UI_wcftask_MarkupCompile.lref
+C:\Users\Shivang\source\repos\UI_wcftask\bin\Debug\UI_wcftask.exe.config
+C:\Users\Shivang\source\repos\UI_wcftask\bin\Debug\UI_wcftask.exe
+C:\Users\Shivang\source\repos\UI_wcftask\bin\Debug\UI_wcftask.pdb
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\MainWindow.baml
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\UI_wcftask.g.resources
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\UI_wcftask.Properties.Resources.resources
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\UI_wcftask.csproj.GenerateResource.cache
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\UI_wcftask.csproj.CoreCompileInputs.cache
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\UI_wcftask.exe
+C:\Users\Shivang\source\repos\UI_wcftask\obj\Debug\UI_wcftask.pdb
